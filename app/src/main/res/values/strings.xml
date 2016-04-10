@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IntelligentExpress</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zhi_neng_hua_wang_luo_kuai_di_zhong_duan">智能化网络快递终端</string>
+    <string name="pu_tong_yong_hu_ru_kou">普通用户入口</string>
+    <string name="you_di_yuan_ru_kou">邮递员入口</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="plz_input_your_login_name">请输入您的登录名</string>
+    <string name="plz_input_your_login_password">请输入您的密码</string>
+    <string name="login_button">登录</string>
+    <string name="sign_button">注册</string>
+    <string name="sign_instruction">如果您是第一次使用本系统,请点击注册按钮,进行一个简单的注册</string>
+    <string name="title_activity_sign">Sign</string>
+    <string name="user_login">普通用户登录</string>
+    <string name="poster_login">邮递员登录</string>
+</resources>
